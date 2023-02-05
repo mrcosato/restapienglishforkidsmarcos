@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Families",
+      "email": "mmarcosaky@hotmail.com",
+      "xp": "score"
+    }
+  ],
+
+  "categories": [
+    {
+      "id": 1,
+      "name": "Families",
+      "image": "https://mrcosato.github.io/mini-portifolio-devfront/"
+    },
+    {
+      "id": 2,
+      "name": "Numbers",
+      "image": "https://mrcosato.github.io/mini-portifolio-devfront/"
+    },
+    {
+      "name": "Colors",
+      "image": "https://mrcosato.github.io/mini-portifolio-devfront/",
+      "id": 3
+    }
+  ]
+}
